@@ -60,4 +60,4 @@ async def mute_err(ctx, error):
 async def devtool(ctx):
     return await ctx.send(ctx.message.author.guild_permissions)
 
-client.run("OTQ3NDA4ODQyNTMzMjczNjMw.Yhs1Pg.3f9cqkZeoZTwpgbKqitqhZ-Wdtc")
+client.run("")
